@@ -3,5 +3,5 @@
 ## Install
 npm install -g typescript
 
-## typescript oop best practice
+## typescript oop  practice
 
